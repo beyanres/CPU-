@@ -154,5 +154,5 @@ os2-practical/
 ---
 
 <p align="center">
-  Built with ❤️ for Education | OS2 Practical Project
+  Built with  for Education | OS2 Practical Project
 </p>
